@@ -1,0 +1,2 @@
+# DirectionalSeekBar
+horizontal   /    vertical  SeekBar
